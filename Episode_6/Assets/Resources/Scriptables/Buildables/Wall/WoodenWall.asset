@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c0ad55fb94aee144b908cf07f80b1ff, type: 3}
+  m_Name: WoodenWall
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 11449038fe4cd0d45957a1ca789ba863, type: 2}
+  uiCategory: {fileID: 11400000, guid: 00491ea272e7fe446817dbeb8cf2da76, type: 2}
+  tileBase: {fileID: 11400000, guid: c4fd9e1cb64a7864297e6a2b0f317b36, type: 2}
+  tile: {fileID: 11400000, guid: c4fd9e1cb64a7864297e6a2b0f317b36, type: 2}
+  placeType: 0
