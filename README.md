@@ -29,3 +29,7 @@ Automatically create the UI based on UICategories and all existing (and assigned
 ### Part 5
 
 Introducing the "Tools Feature" with the eraser tool as example.
+
+### Part 6
+
+Placement Restriction based on specific tiles or rules
