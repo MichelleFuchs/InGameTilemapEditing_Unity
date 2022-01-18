@@ -142,6 +142,8 @@ public class BuildingCreator : Singleton<BuildingCreator> {
     }
 
     private bool IsForbidden(Vector3Int pos) {
+        if (selectedObj == null) return false;
+
         List<BuildingCategory> restrictedCategories = selectedObj.PlacementRestrictions;
         // get the according tilemaps for each category
         List<Tilemap> restrictedMaps = restrictedCategories.ConvertAll(category => category.Tilemap);
