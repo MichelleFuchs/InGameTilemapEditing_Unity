@@ -33,3 +33,7 @@ Introducing the "Tools Feature" with the eraser tool as example.
 ### Part 6
 
 Placement Restriction based on specific tiles or rules
+
+### Part 7
+
+Introducing a basic build history for undoind and redoing steps

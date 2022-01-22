@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c0ad55fb94aee144b908cf07f80b1ff, type: 3}
+  m_Name: WoodenDoor
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 11449038fe4cd0d45957a1ca789ba863, type: 2}
+  uiCategory: {fileID: 11400000, guid: dfefaecd32b693e4082c17079c79dfc4, type: 2}
+  tileBase: {fileID: 11400000, guid: 0ed0974f4616d764497072a3a5097c75, type: 2}
+  placeType: 3
+  usePlacementRestrictions: 1
+  placementRestrictions:
+  - {fileID: 11400000, guid: 1c19742ee9e4acf43a4965addf34f5fb, type: 2}
