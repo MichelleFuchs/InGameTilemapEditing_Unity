@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c0ad55fb94aee144b908cf07f80b1ff, type: 3}
+  m_Name: WoodenFloor
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 4cf42b6749c82874b84e036ef494e217, type: 2}
+  uiCategory: {fileID: 11400000, guid: 413c377b54e24bd4f83a67d18939ea0e, type: 2}
+  tileBase: {fileID: 11400000, guid: 970329caa13ccab4c911be900ef1890b, type: 2}
+  tile: {fileID: 11400000, guid: 970329caa13ccab4c911be900ef1890b, type: 2}
+  placeType: 0
